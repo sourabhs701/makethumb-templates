@@ -3,7 +3,6 @@ import BlurFadeText from "@/components/magicui/blur-fade-text";
 import { Button } from "@/components/ui/button";
 import { DATA } from "@/data/saas";
 import { FeatureCard } from "@/components/feature-card";
-import { StatCard } from "@/components/stat-card";
 import { TestimonialCard } from "@/components/testimonial-card";
 import { PricingCard } from "@/components/pricing-card";
 import FAQSection from "@/components/faq-section";
